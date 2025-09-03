@@ -1,0 +1,20 @@
+name: Feature request
+description: Propose an enhancement or new capability
+labels: ["type:feature", "needs-triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: What user need or workflow should this address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe the idea, UX, and acceptance criteria.
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered

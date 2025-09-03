@@ -1,0 +1,31 @@
+name: Bug report
+description: Report a reproducible problem
+labels: ["type:bug", "needs-triage"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Tell us what you expected and what actually happened.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Minimal steps that reproduce the bug.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: env
+    attributes:
+      label: Environment
+      description: OS, app version, LLM provider, relevant configs.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs or screenshots
