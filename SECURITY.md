@@ -9,8 +9,8 @@ DevSwarm takes security seriously. We are committed to protecting user data, cod
 **DevSwarm is designed with privacy-first principles:**
 
 - Your code stays on your machine
-- LLM interactions use your own API keys, or runs locally
-- Telemetry can be turned off anytime in settings
+- AI assistants run through your own credentials, or locally
+- Sensitive data stored on-device is encrypted at rest using the operating system's built-in encryption
 
 ## Reporting security vulnerabilities
 
@@ -22,17 +22,17 @@ If you discover a security vulnerability, please report it responsibly:
 - Allow reasonable time for response and fix
 
 **For general security concerns:**
-- Open an issue using our [bug report template](https://github.com/devswarm-ai/devswarm-ai/issues/new?template=bug.yml)
+- Open an issue using our [bug report template](https://github.com/devswarm-ai/devswarm/issues/new?template=bug.yml)
 - Tag with "security" label
 
 ## Security best practices
 
 When using DevSwarm:
-- Keep your LLM API keys secure
+- Keep your AI assistant credentials and API keys secure
 - Review generated code before committing
 - Use appropriate branch permissions for sensitive repositories
 - Follow your organization's security policies
-- Follow the seucrity recommendations of any/all coding assistant(s) you are using
+- Follow the security recommendations of any/all coding assistant(s) you are using
 
 ## Updates
 
@@ -41,4 +41,4 @@ We will notify users of security updates through:
 - Email notifications (if subscribed)
 - In-app notifications for critical updates
 
-Last updated: 2025-09-08
+Last updated: 2026-07-20
