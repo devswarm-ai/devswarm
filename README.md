@@ -21,6 +21,14 @@ We call this **High Velocity Engineering**: the art of moving fast and building 
 
 Most tools drop AI inside your editor. DevSwarm is built the other way around — parallel, isolated, developer-first. Run multiple assistants, compare branches, and stay in control of your code.
 
+## Documentation
+
+- [Getting Started](./docs/getting-started.md) — install and create your first workspace
+- [How DevSwarm Works](./docs/how-it-works.md) — workspaces, review, integrations
+- [Supported AI Assistants](./docs/supported-ai-assistants.md) — the full list
+- [FAQ](./docs/faq.md) — common questions
+- [Changelog](./CHANGELOG.md) — what's new
+
 ## Requirements
 
 - **macOS or Windows** (Windows includes WSL repository support)

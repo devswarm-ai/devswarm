@@ -6,7 +6,8 @@ This file is public. Keep everything here matter-of-fact and safe for anyone to 
 
 `devswarm-ai/devswarm` is the **public landing page and issue tracker** for DevSwarm. The DevSwarm application itself is a separate, proprietary product and does not live here. This repo contains:
 
-- Marketing/overview docs: `README.md`, `SECURITY.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `LICENSE`
+- Marketing/overview docs: `README.md`, `SECURITY.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `LICENSE`, `CHANGELOG.md`
+- Product content pages: `docs/` (getting-started, how-it-works, supported-ai-assistants, faq)
 - GitHub issue templates: `.github/ISSUE_TEMPLATE/` (bug, feature, question)
 
 ## What DevSwarm is (public description)
